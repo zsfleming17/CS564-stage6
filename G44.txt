@@ -1,0 +1,11 @@
+Zachery Fleming - zfleming@wisc.edu
+- Implemented select.c
+
+Ido Ofek - iofek@wisc.edu
+- Implemented delete.c
+
+Sanjay Mathur - mathur22@wisc.edu
+- Implemented insert.c
+
+We decided to split this stage up by assigning each member a file.
+We all reviewed each other's code and tested using qu.1, qu.5, and qu.7.
